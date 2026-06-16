@@ -1,5 +1,9 @@
 # Airline Operations Analytics
 
+## Dashboard Preview
+
+![Dashboard](dashboard/Dashboard_screenshot.png)
+
 ## Overview
 
 This project is an end-to-end data analytics solution built using Python, Pandas, and Power BI to analyze airline operations and performance.
